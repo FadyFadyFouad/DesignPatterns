@@ -1,4 +1,4 @@
-package StrategyDP4;
+package StrategyDP;
 
 public class PayByVisa implements IPayment{
 

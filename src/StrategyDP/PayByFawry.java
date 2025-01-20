@@ -1,4 +1,4 @@
-package StrategyDP4;
+package StrategyDP;
 
 public class PayByFawry implements IPayment{
     @Override
